@@ -1,3 +1,4 @@
 feature1 first commit
 feature1 2nd commit
 main 4th commit
+feature2 1st commit
